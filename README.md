@@ -18,7 +18,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="30" alt="django logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FJitensid%2Fdjango-webpack-dev-server&psig=AOvVaw2oJVyNUe1ECiVXAOba48CC&ust=1711808614513000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCPDFhJjWmYUDFQAAAAAdAAAAABAE)" height="30" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
   <img width="12" />
